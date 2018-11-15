@@ -1,0 +1,14 @@
+1. Profiler: Gas cost profiling for Solidity Smart Contracts https://devpost.com/software/profiler-4mahxw
+2. We will discuss what is and why gas. Also, we will discuss about various terms related to gas like Gas Price, Gas Limit, Gas used and tools to find good amout of Gas Price to set for our ethereum transactions. 
+https://ethgasstation.info/
+https://etherscan.io/txsPending
+3. Ethereum end to end transaction flow, like what happens when we click on the submit button in the metamask after filling the fields like value, gas etc., 
+4. How does Private and Public Keys are generated? What is the difference between Public Key and Account in the world of Ethereum. 
+
+News from Ethereum Foundation
+1. Where are we with Eth 2.0 (Serenity)?
+2. What's happening arounf with Plasma and other side chains?
+TBD
+
+News from Consensys
+TBD
